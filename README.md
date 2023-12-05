@@ -4,6 +4,9 @@
 
 This Django Project focuses on developing a Vendor Management System using Django and Django REST Framework. The system will handle vendor profiles, track purchase orders, and calculate performance metrics. Real-time updates will be achieved through Django signals. API design will strictly adhere to RESTful principles, with comprehensive data validations for models. Django ORM will be utilized for efficient database interactions, and API endpoints will be secured with token-based authentication for enhanced security.
 
+```Admin Username: admin```
+```Admin Password: admin```
+
 ## Table of Contents
 
 - [Installation](#installation)
